@@ -1,0 +1,9 @@
+Package: no.3d.touch.feedback
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Author: me
+Maintainer: me
+Depends: mobilesubstrate
+Section: Tweaks
+Description: Disables 3D touch haptic and sound feedback
+Name: no 3d touch feedback
